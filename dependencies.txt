@@ -1,0 +1,4 @@
+npm init
+npm install validator
+npm install chalk
+npm install yargs
